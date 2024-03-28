@@ -1,0 +1,34 @@
+#outbox{
+    border: solid 1px;
+    height: 1000px;
+    width: 1220px;
+margin-left: 125px;
+background-image: url(budd.jpg),url(natenvi.jpg);
+background-size: 1220px 650px, 1220px 400px;
+background-repeat: no-repeat no-repeat;
+background-position: top left,bottom left;
+padding-top: 40px;
+margin-bottom: 200px;
+/* text-indent: 50px; */
+text-align: justify;
+filter:brightness(140%);
+/* filter: contrast(160%); */
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: crimson;
+}
+body{
+    background-color: #743379
+}
+p::first-letter{
+    margin-left: 60px;
+    margin-top: -10px;
+    float:left;
+    line-height: 1;
+    margin-right: 9px;
+    font-size: 95px;
+    font-weight: bolder;
+}
+
